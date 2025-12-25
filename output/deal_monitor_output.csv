@@ -1,0 +1,8 @@
+Ticker,M&A Signal,News Flag,Headline,Signal Score,Notes
+NKE,Yes,Yes,M&A keyword match: 'acquires',3,Deal-language detected — review recommended
+LULU,No,No,No verified M&A activity,0,Rejected — non-M&A/irrelevant article
+DECK,Yes,Yes,M&A keyword match: 'acquires',3,Deal-language detected — review recommended
+CROX,No,No,No verified M&A activity,0,Rejected — non-M&A/irrelevant article
+VFC,No,No,No verified M&A activity,0,Rejected — non-M&A/irrelevant article
+ONON,No,No,No verified M&A activity,0,Rejected — non-M&A/irrelevant article
+ADDYY,Yes,Yes,M&A keyword match: 'acquisition of',3,Deal-language detected — review recommended
